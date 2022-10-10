@@ -13,7 +13,8 @@ xrandr --listmonitors
 ```
 
 Benim için HDMI-2 portu harici monitörümün bulunduğu port
-![[Screenshot_20221010_161251.png]]
+![Screenshot_20221010_161251](https://user-images.githubusercontent.com/48354297/194876823-696be4c3-1164-4b8d-a1e5-3dc5d8a11331.png)
+
 
 
 ``` bash
